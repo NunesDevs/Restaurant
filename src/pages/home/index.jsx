@@ -26,7 +26,6 @@ import {
     ModalContent 
 } from './styles';
 //========================================================================
-import Slider from "react-slick";
 import logo from '../../assets/Log.svg'
 import MaterialIcon from '@material/react-material-icon';
 import restaurante from '../../assets/padrao.jpg';
