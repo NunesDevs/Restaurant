@@ -1,6 +1,6 @@
 # Projeto busca de restaurantes com React
 
-- Api google maps deve se instalada.
+- Api google maps deve ser instalada juntamente com places.
 
 ## Scripts Disponíveis
 
