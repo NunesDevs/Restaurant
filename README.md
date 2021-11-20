@@ -1,5 +1,7 @@
 # Projeto busca de restaurantes com React
 
+- Api google maps deve se instalada.
+
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
